@@ -61,9 +61,3 @@ PocketBondhu is a simple and user-friendly **personal expense tracker** app that
 ## 👨‍💻 Contributing
 
 Contributions are welcome! Feel free to fork this project and submit pull requests. If you find any issues or bugs, kindly open an issue in the **Issues** section.
-
----
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
